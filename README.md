@@ -36,7 +36,6 @@ Raw data is a liability until it is structured and pipelined. This project is a 
 ---
 
 ## 📈 Key Business Insights Discovered
-*(Note: Here is where you prove you understand the business, not just the code. Add 2-3 bullet points about what the data actually showed).*
 * **Insight 1:** [e.g., The top 5% of retail stores accounted for X% of total revenue...]
 * **Insight 2:** [e.g., The B2B EV fleet showed a drop in efficiency during X timeframe due to...]
 * **Insight 3:** [e.g., By ranking transport vehicles using dense rank, we identified that...]
